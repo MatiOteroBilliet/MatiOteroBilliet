@@ -63,4 +63,3 @@ con equipos de trabajo.
 <p align="center">
     📚 Siempre aprendiendo nuevas tecnologías y buenas prácticas de desarrollo.
 </p>
-```
