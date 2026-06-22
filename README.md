@@ -1,4 +1,3 @@
-```html
 <h1 align="center">¡Hola! Soy Matías Otero Billiet 👋</h1>
 
 <h3 align="center">Estudiante de Analista Programador | Desarrollador en formación</h3>
