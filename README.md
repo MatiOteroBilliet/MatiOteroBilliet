@@ -26,13 +26,13 @@ de los grupos de trabajo, buscando siempre alcanzar objetivos de manera colabora
 
 <h2>🚀 Tecnologías y conocimientos</h2>
 
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /><br>
-
 <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" /><br>
+
+<img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white" /><br>
 
 <img align="right" width="500" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
-<img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white" /><br>
+<img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" /><br>
 
 <img src="https://img.shields.io/badge/Power_Automate-0066FF?style=for-the-badge" /><br>
 
