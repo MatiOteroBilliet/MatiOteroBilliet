@@ -26,15 +26,31 @@ de los grupos de trabajo, buscando siempre alcanzar objetivos de manera colabora
 
 <h2>🚀 Tecnologías y conocimientos</h2>
 
-<ul>
-    <li>🐍 Python</li>
-    <li>⚙️ C</li>
-    <li>🖥️ C#</li>
-    <li>📊 Microsoft Excel</li>
-    <li>📝 Microsoft Word</li>
-    <li>📈 Microsoft PowerPoint</li>
-    <li>☁️ Microsoft Office 365</li>
-</ul>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /><br>
+
+<img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" /><br>
+
+<img align="right" width="500" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
+
+<img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white" /><br>
+
+<img src="https://img.shields.io/badge/Power_Automate-0066FF?style=for-the-badge" /><br>
+
+<img src="https://img.shields.io/badge/Automation_Anywhere-FF6C37?style=for-the-badge" /><br>
+
+<img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white" /><br>
+
+<img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" /><br>
+
+<img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" /><br>
+
+<img src="https://img.shields.io/badge/Word-2B579A?style=for-the-badge&logo=microsoftword&logoColor=white" /><br>
+
+<img src="https://img.shields.io/badge/PowerPoint-B7472A?style=for-the-badge&logo=microsoftpowerpoint&logoColor=white" /><br>
+
+<img src="https://img.shields.io/badge/Microsoft_365-D83B01?style=for-the-badge&logo=microsoftoffice&logoColor=white" /><br>
+
+<br clear="right"/>
 
 <hr>
 
@@ -61,5 +77,5 @@ con equipos de trabajo.
 <hr>
 
 <p align="center">
-    📚 Siempre aprendiendo nuevas tecnologías y buenas prácticas de desarrollo.
+📚 Siempre aprendiendo nuevas tecnologías y buenas prácticas de desarrollo.
 </p>
