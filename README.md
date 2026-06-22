@@ -79,3 +79,25 @@ con equipos de trabajo.
 <p align="center">
 📚 Siempre aprendiendo nuevas tecnologías y buenas prácticas de desarrollo.
 </p>
+
+<hr>
+
+<h2 align="center">📬 Contacto</h2>
+
+<p align="center">
+
+<a href="mailto:matiasoterobilliet@gmail.com">
+  <img src="https://skillicons.dev/icons?i=gmail" height="60" />
+</a>
+
+<a href="https://www.linkedin.com/in/matias-otero-billiet-2aa1a4301/" target="_blank">
+  <img src="https://skillicons.dev/icons?i=linkedin" height="60" />
+</a>
+
+<a href="https://github.com/MatiOteroBilliet" target="_blank">
+  <img src="https://skillicons.dev/icons?i=github" height="60" />
+</a>
+
+<a href="https://wa.me/5491128500088" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/whatsapp.svg" height="60" />
+</a>
